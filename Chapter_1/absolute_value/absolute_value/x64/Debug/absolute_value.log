@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Users\Gregor\Documents\Programming\Cpp_Crash_Course\Chapter_1\absolute_value\absolute_value\main.cpp(7): warning C4715: 'absolute_value': not all control paths return a value
+  absolute_value.vcxproj -> F:\Users\Gregor\Documents\Programming\Cpp_Crash_Course\Chapter_1\absolute_value\x64\Debug\absolute_value.exe
